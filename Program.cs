@@ -18,7 +18,7 @@ namespace Firewall
             
             t1.temp=new();
             t1.temp.Add(1);
-            
+            Console.WriteLine("Hello");
             test t2=t1;
             t2.a=12;
             System.Console.WriteLine(t1.a);
