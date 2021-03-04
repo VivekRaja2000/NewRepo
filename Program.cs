@@ -13,7 +13,7 @@ namespace Firewall
         static void Main(string[] args)
         {
             test t1=new test();
-            t1.a=100;
+            t1.a=200;
             
             
             t1.temp=new();
