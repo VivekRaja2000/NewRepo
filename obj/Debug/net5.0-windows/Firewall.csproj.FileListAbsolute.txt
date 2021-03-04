@@ -1,0 +1,16 @@
+C:\Users\vivek\Desktop\Firewall\bin\Debug\net5.0-windows\Firewall.exe
+C:\Users\vivek\Desktop\Firewall\bin\Debug\net5.0-windows\Firewall.deps.json
+C:\Users\vivek\Desktop\Firewall\bin\Debug\net5.0-windows\Firewall.runtimeconfig.json
+C:\Users\vivek\Desktop\Firewall\bin\Debug\net5.0-windows\Firewall.runtimeconfig.dev.json
+C:\Users\vivek\Desktop\Firewall\bin\Debug\net5.0-windows\Firewall.dll
+C:\Users\vivek\Desktop\Firewall\bin\Debug\net5.0-windows\ref\Firewall.dll
+C:\Users\vivek\Desktop\Firewall\bin\Debug\net5.0-windows\Firewall.pdb
+C:\Users\vivek\Desktop\Firewall\obj\Debug\net5.0-windows\Firewall.csprojAssemblyReference.cache
+C:\Users\vivek\Desktop\Firewall\obj\Debug\net5.0-windows\Firewall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivek\Desktop\Firewall\obj\Debug\net5.0-windows\Firewall.AssemblyInfoInputs.cache
+C:\Users\vivek\Desktop\Firewall\obj\Debug\net5.0-windows\Firewall.AssemblyInfo.cs
+C:\Users\vivek\Desktop\Firewall\obj\Debug\net5.0-windows\Firewall.csproj.CoreCompileInputs.cache
+C:\Users\vivek\Desktop\Firewall\obj\Debug\net5.0-windows\Firewall.dll
+C:\Users\vivek\Desktop\Firewall\obj\Debug\net5.0-windows\ref\Firewall.dll
+C:\Users\vivek\Desktop\Firewall\obj\Debug\net5.0-windows\Firewall.pdb
+C:\Users\vivek\Desktop\Firewall\obj\Debug\net5.0-windows\Firewall.genruntimeconfig.cache
